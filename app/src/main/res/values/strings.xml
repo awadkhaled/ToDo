@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="label">Label</string>
+    <string name="date">Mar 21</string>
+    <string name="year">Mar 18, 2016 08:00PM</string>
+    <string name="todo_tv">To do</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_design">App Design</string>
+    <string name="client">Client Meeting</string>
+    <string name="buy_gift">Buy Gift</string>
+    <string name="dinner_with_harin">Dinner With Hurin</string>
+    <string name="divider">divider</string>
+</resources>
